@@ -1,0 +1,17 @@
+How much money do you want to spend gambling?
+How much do you want to wager?
+House's first roll is 4 (Total: 4)
+You rolled 10 and 3
+Your total is 13
+Would you like to hit (h) or stand (s)? 
+Player chooses to stand.
+House rolled a 5
+House rolled a 5
+House rolled a 11
+House's final total is 25
+House Bust! Player wins.
+Your new balance is $1400
+Player's hand: 10 3  (Total: 13)
+House's hand: 4 5 5 11  (Total: 25)
+Do you want to play again? (y/n)
+Thanks for playing!
